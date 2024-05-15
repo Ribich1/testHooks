@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Ribich1/testHooks/static/css/main.7acaea2f.css",
-    "main.js": "/Ribich1/testHooks/static/js/main.07d3183d.js",
+    "main.js": "/Ribich1/testHooks/static/js/main.d62bc8b2.js",
     "index.html": "/Ribich1/testHooks/index.html",
     "main.7acaea2f.css.map": "/Ribich1/testHooks/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Ribich1/testHooks/static/js/main.07d3183d.js.map"
+    "main.d62bc8b2.js.map": "/Ribich1/testHooks/static/js/main.d62bc8b2.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.d62bc8b2.js"
   ]
 }
